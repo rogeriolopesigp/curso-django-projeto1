@@ -118,7 +118,7 @@ LANGUAGE_CODE = "pt-BR"
 
 TIME_ZONE = "America/Sao_Paulo"
 
-USE_I18N = True
+USE_I18N = False
 
 USE_TZ = True
 
